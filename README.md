@@ -2,7 +2,7 @@
 
 ## Description
 This sample project reproduces a bug where a second gradle daemon is spawned when hitting the sync button in Android Studio.
-This happens when including a settings.gradle.kts file in the buildSrc directory.
+This happens when including a settings.gradle file in the buildSrc directory.
 
 ## Repro steps
 
